@@ -69,13 +69,14 @@ header div {
 
 
 section {
-  background-image: url('squidguybackground.gif');
+  background-image: url('spinningchipforwebbrowser.gif');
   min-height: 1000px;
   min-height:
   background-size: 50vw 100vh;
   background-repeat: no-repeat;
   min-height: 2000;
   min-width: 500px;
+  color:white;
 }
 
 

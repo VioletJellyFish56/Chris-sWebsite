@@ -69,7 +69,7 @@ header div {
 
 
 section {
-  background-image: url('squid guy background.gif')
+  background-image: url('squid guy background.gif');
   min-height: 1000px;
   min-height:
   background-size: 50vw 100vh;
@@ -106,15 +106,15 @@ footer div {
 
 
 .codakid-icon {
-  background-image: url("C:\\Users\\skill\\CodaKid\\Projects\\Html5\\Chris\\Images\\codakid logo.jpg")
+  background-image: url('codakid logo.jpg');
 }
 
 .youtube-icon {
-  background-image: url("C:\\Users\\skill\\CodaKid\\Projects\\Html5\\Chris\\Images\\hi.png")
+  background-image: url('hi.png');
 }
 
 .facebook-icon {
-  background-image: url("C:\\Users\\skill\\CodaKid\\Projects\\Html5\\Chris\\Images\\facebook icon.jpg")
+  background-image: url('facebook icon.jpg');
 }
 
 footer div a {
